@@ -8,8 +8,17 @@ Stop reading and start escaping SANS!!
 
 ## Instructions to run
 
-1. mkdir build
-2. cd build/
-3. cmake ..
-4. make -j
-5. ./game
+1. Create a directory `build` and `cd` into it
+- `mkdir build`
+- `cd build/`
+
+2. Build the makefile using `cmake':`
+- `cmake ..`
+
+3. Compile the program using makefile
+- `make -j`
+
+4. Execute the game
+- `./game`
+
+5. Survive :)

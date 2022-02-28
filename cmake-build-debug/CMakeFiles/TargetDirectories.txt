@@ -1,0 +1,9 @@
+/home/jade/course_work/CG/assignment1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jade/course_work/CG/assignment1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jade/course_work/CG/assignment1/cmake-build-debug/CMakeFiles/glad.dir
+/home/jade/course_work/CG/assignment1/cmake-build-debug/CMakeFiles/game.dir
+/home/jade/course_work/CG/assignment1/cmake-build-debug/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/home/jade/course_work/CG/assignment1/cmake-build-debug/libraries/glfw/CMakeFiles/edit_cache.dir
+/home/jade/course_work/CG/assignment1/cmake-build-debug/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/jade/course_work/CG/assignment1/cmake-build-debug/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/home/jade/course_work/CG/assignment1/cmake-build-debug/libraries/glfw/src/CMakeFiles/glfw.dir

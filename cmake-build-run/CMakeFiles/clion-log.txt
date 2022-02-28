@@ -1,0 +1,5 @@
+/opt/clion/bin/cmake/linux/bin/cmake -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/ninja -G Ninja /home/jade/course_work/CG/assignment1
+-- Using X11 for window creation
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/jade/course_work/CG/assignment1/cmake-build-run
